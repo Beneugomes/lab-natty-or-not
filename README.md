@@ -20,19 +20,41 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto de Design Gráfico Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um Portfólio Online:
+Desenvolver um portfólio com um design limpo e visualmente atraente,
+utilizando cores pastéis e tipografias elegantes.
+Inclua trabalhos de design anteriores e crie uma identidade visual coesa.
+
+Pacote de ícones personalizados:
+Crie um conjunto de ícones com um estilo estético específico,
+como minimalista ou vintage, para serem usados em websites ou aplicativos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+    * HTML, CSS e JAVASCRIPT
+
+ FRAMEWORK CSS
+    * Bootstrap e Tailwind CSS
+
+ FRAMEWORK JAVASCRIPT
+    * React e Vue.js
+
+ Design e Prototipagem
+    * Figma, Adobe XD e Sketch
+
+ Hospedagem e Deploy
+    * Netlify, Vercel e GitHub Pages
+
+ Gestão de Conteúdo
+    * Contentful e Sanity
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Reformulando atraves do ChatGPT e GEMINI.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado final é um portfólio online profissional e visualmente atraente, complementado por um pacote de ícones personalizados.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
